@@ -1,0 +1,15 @@
+{
+    "name": "bluerose.stylized-grass",
+    "version": "1.0.0",
+    "displayName": "Stylized-grass",
+    "description": "A comprehensive package for creating Ghibli-style grass shaders. Includes a variety of prefabs, scenes, shadergraphs, and scripts to help you create and showcase beautiful grass animations and styles.",
+    "unity": "2022.3",
+    "keywords": ["grass", "shader", "Ghibli", "stylized", "shadergraph"],
+    "author": {
+        "name": "Your Name",
+        "email": "alexandre.chiasera@gmail.com",
+        "url": "https://github.com/Chiasera"
+    },
+    "dependencies": {
+    }
+}
