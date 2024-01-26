@@ -18,7 +18,7 @@ Ensure you have the minimum required version of Unity installed, as this package
 - Download the package through the package manager: Window >Package Manager > add package from git URL
 - Alternatively you can clone this repository into your Unity project's packages directory.
 ```bash
-git clone https://github.com/yourusername/ghibli-style-grass-shader.git
+git clone [https://github.com/yourusername/ghibli-style-grass-shader.git](https://github.com/Chiasera/Stylized-grass.git)
 ```
 
 ##Usage
