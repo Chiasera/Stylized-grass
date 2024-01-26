@@ -1,5 +1,8 @@
 # Ghibli-Style Grass Shader Package
 
+![image](https://github.com/Chiasera/Stylized-grass/assets/70693638/c8e52bb8-9bb6-4392-9fcc-afa41b951114)
+
+
 ## Description
 This package provides a stylized grass shader designed to mimic the distinctive Ghibli animation style. It's perfect for game developers and animators looking to incorporate a touch of Ghibli's enchanting visuals into their Unity projects. The package includes a set of prefabs, scenes, shadergraphs, and scripts specifically tailored to create stunning, stylized grass animations.
 
