@@ -16,6 +16,7 @@ Ensure you have the minimum required version of Unity installed, as this package
 - Alternatively you can clone this repository into your Unity project's packages directory.
 ```bash
 git clone https://github.com/yourusername/ghibli-style-grass-shader.git
+```
 
 ##Usage
 Copy the Showcase scene locate under the Stylized-grass > Scenes in your assets folder as it is read-only when importing the package
